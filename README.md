@@ -40,7 +40,7 @@ The seed creates a demo admin account:
 
 - Email: `admin@shopez.com`
 - Password: `admin123`
-- Coupon: `NEXA10` (10% off)
+- Coupon: `SHOPEZ10` (10% off)
 
 If you use MongoDB Atlas, update `server/.env` with your connection string.
 
